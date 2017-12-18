@@ -30,7 +30,7 @@ thephuckinstart :
 echo "\n\e[0m".$blue."Enter Your Choice (help/fix/domain) : $green";
 $ip=trim(fgets(STDIN,1024));
 if ($ip == "help"){
-echo"\n\n[+] RED HAWK Help Screen [+] \n\n";
+echo"\n\n[+] VAP0R HAWK Help Screen [+] \n\n";
 echo $bold.$lblue."Commands\n";
 echo "========\n";
 echo $fgreen."[1] help:$cln View The Help Menu\n";
