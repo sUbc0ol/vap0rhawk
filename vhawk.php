@@ -19,11 +19,11 @@ __   ____ _ _ __   ___  _ __| |__   __ ___      _| | __
            |_|                                                                                       
                                                                                                                                                                                               ╝
 $bold
- For Info Gathering, SQL Vulnerability Scannig and Crawling
+ Info Gathering, SQL Vulnerability Scannig and Crawling
 $fgreen
 ---------------------------------------------------------------------------
-             [+] Coded By - r0otzz-ee
-            $lblue [+] Version - 1.1.0
+             [+] Coded By - r0otz-ee
+            $lblue [+] Version - 1.0
 ---------------------------------------------------------------------------
 \n";
 thephuckinstart :
