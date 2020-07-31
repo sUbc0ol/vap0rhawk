@@ -22,7 +22,7 @@ $bold
  Info Gathering, SQL Vulnerability Scannig and Crawling
 $fgreen
 ---------------------------------------------------------------------------
-             [+] Coded By - r0otz-ee
+             [+] Coded By - sUbc0ol and deadpatch
             $lblue [+] Version - 1.0
 ---------------------------------------------------------------------------
 \n";
